@@ -17,5 +17,6 @@ html, body {
     font-family: 'Montserrat', bold;
     font-size: 1.2em;
     margin: auto;
-    padding: 10px 0 15px 0;
+    padding: 15px 10px 15px 10px;
+    text-align: center;
 }
