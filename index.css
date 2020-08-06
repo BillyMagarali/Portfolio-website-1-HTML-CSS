@@ -8,6 +8,8 @@ html, body {
 
 .header {
     background: darkblue repeat bottom;
+    margin-bottom: 1%;
+    padding-bottom: 1%;
     
 }
 
