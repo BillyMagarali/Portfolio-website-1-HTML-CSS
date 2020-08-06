@@ -13,7 +13,7 @@ html, body {
     
 }
 
-title {
+.title {
     font-family: 'Montserrat', bold;
     font-size: 1.2em;
     margin: auto;
