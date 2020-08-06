@@ -11,3 +11,6 @@ html, body {
     
 }
 
+h1 {
+    font: "Montserrat", bold, 32px;
+}
