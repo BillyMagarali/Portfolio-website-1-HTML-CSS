@@ -12,5 +12,6 @@ html, body {
 }
 
 h1 {
-    font: "Montserrat", bold, 32px;
+    font-family: 'Montserrat', bold;
+    font-size: 1.2em;
 }
