@@ -31,6 +31,10 @@ ul {
   font-size: 1em;
 }
 
+ul, a:hover {
+    color: lightblue;
+}
+
 img {
     width: 250px;
     height: 200px;    
