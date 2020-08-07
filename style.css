@@ -1,4 +1,4 @@
-html, body {
+html, body, .page {
     height: 100%;
     margin: 0;
     padding: 0;
@@ -20,6 +20,10 @@ html, body {
 .title {
     padding: 15px 10px 15px 10px;
     text-align: center;
+}
+
+table {
+    padding: 1% 1% ;
 }
 
 ul {
