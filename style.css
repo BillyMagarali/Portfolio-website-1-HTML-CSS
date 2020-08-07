@@ -47,3 +47,7 @@ img {
     width: 250px;
     height: 200px;    
 }
+
+td {
+    padding: 0 1% 0 1%;
+}
