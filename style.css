@@ -41,12 +41,12 @@ ul, a:hover {
 }
 
 img {
-    width: 250px;
-    height: 200px;    
+    width: 10em;
+    height: 10em;    
 }
 
 td {
-    padding: 0 1% 0 1%;
+    padding: 1% 1%;
 }
 
 .page {
