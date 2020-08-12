@@ -10,23 +10,26 @@ body {
 .header {
     background: darkblue repeat bottom;
     margin-bottom: 1%;
-    padding-bottom: 1%;
     color: white;
     
 }
 
 .title {
-    padding: 15px 10px 15px 10px;
+    padding-top: 10px;
     text-align: center;
 }
 
-table {
-    padding: 1% 1% ;
-}
+
 
 ul {
-  list-style-type: none; 
-  font-size: 1em;
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    padding: 16px;
 }
 
 a {
@@ -45,9 +48,6 @@ img {
     height: 10em;    
 }
 
-td {
-    padding: 1% 1%;
-}
 
 .page {
     height: 100%;
